@@ -1,4 +1,4 @@
-## Hi there 👋 I am Achyuth
+## Hi there 👋 I am Shanmukh
 
 <h3 align="left">Skills:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mongodb,mysql," />
@@ -7,7 +7,9 @@
 <h3 align="left">Let's Connect</h3>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanmukhsai100805@gmail.com)
-
+[![shanmukh's GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmuukh1510&layout=compact&theme=dark&cache_seconds=1)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanmuukh1510&theme=dark&cache_seconds=1)](https://git.io/streak-stats)
+[![shanmukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanmuukh1510&count_private=true&show_icons=true&theme=dark&cache_seconds=1)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **shanmukh1510/shanmukh1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
